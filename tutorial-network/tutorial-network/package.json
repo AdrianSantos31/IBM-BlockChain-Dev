@@ -1,6 +1,6 @@
 {
   "name": "tutorial-network",
-  "description": "This is a Blockchain tutorial by IBM using Hyperledger Composer",
+  "description": "This is a blockchain tutorial by IBM on Hyperledger Composer",
   "version": "0.0.1",
   "author": "Adrian Santos",
   "email": "adriansantos31@gmail.com",
